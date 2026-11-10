@@ -1,0 +1,12 @@
+<AlibreDesignAddOn specificationVersion="2" friendlyName="SimWiseForAlibre">
+   <Author name="Frank's Workshop" link="http://www.franksworkshop.com.au"/>
+   <DLL type="Managed" loadedWhen="Startup" location="SimWiseForAlibre.dll"/>
+   <Copyright>Copyright (C) 2026 Frank's Workshop</Copyright>
+   <Icon location="SimWiseForAlibre.ico"/>
+   <Menu text="SimWise"/>
+   <Description>Exports Alibre Design parts and assemblies to SimWise 4D.</Description>
+   <Workspace type="Assembly"/>
+   <Workspace type="Part"/>
+   <Workspace type="SheetMetal"/>
+   <Property name="Identifier" value="{E0602E34-4ADD-4C82-B046-F3E93CE6B907}"/>
+</AlibreDesignAddOn>
