@@ -2,7 +2,7 @@
 
 An Alibre Design 27 add-on that exports the open part or assembly to SimWise 4D, with its
 assembly constraints, which SimWise turns into joints. This is a compatibility project 
-as DST's own plugin only works with the version it came with.
+as DST's own plugin only works with the version of Alibre it came with.
 
 ## Needs
 
